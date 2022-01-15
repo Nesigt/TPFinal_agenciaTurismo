@@ -1,5 +1,5 @@
 # Trabajo Práctico Final - Agencia de Turismo | Silicon Misiones / Polo TIC Misiones
-Enunciado: 
+
 Una agencia de turismo necesita del desarrollo de una aplicación web para la venta de sus productos por parte de cada uno de sus empleados. Para comprender cada parte de la empresa y cada uno de sus productos y servicios, un analista funcional llevó a cabo el relevamiento de cada una de las acciones y cuestiones a tener en cuenta en el desarrollo del sistema, las mismas se citan a continuación.
 
 **Servicio turístico**
