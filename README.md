@@ -61,7 +61,8 @@ o Un servicio o un paquete turístico (recordar que un paquete contiene varios s
 o Un empleado (el que realiza la venta)
 
 ABML (Altas, bajas, modificaciones y lecturas necesarias)
-✓ El sistema debe ser capaz de realizar las operaciones ABML de los diferentes servicios, paquetes, clientes, ventas y empleados. Para ello tener en cuenta que idealmente: 
+✓ El sistema debe ser capaz de realizar las operaciones ABML de los diferentes servicios, paquetes, clientes, ventas y empleados. Para ello tener en cuenta que
+idealmente:
 o Todos los clientes, servicios, paquetes y ventas deberán poder tener su ventana o apartado para realizar altas.
 o Todos los clientes, servicios, paquetes y ventas deberán poder tener su ventana o apartado para realizar modificaciones.
 o Todos los clientes, servicios, paquetes y ventas deberán poder tener su ventana o apartado para realizar consultas/lectura de datos.
